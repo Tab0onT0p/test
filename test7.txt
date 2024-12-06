@@ -1,2 +1,1 @@
-{username:Skibidi:password:BwoKBgkRJw==:hwid:178BFBFF00A20F12:expires:25/10/2024}
-{username:test:password:JwAQBg==:hwid:178BFBFF00A20F12:expires:27/10/2024}
+6.12.24
